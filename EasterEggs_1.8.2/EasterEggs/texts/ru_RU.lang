@@ -1,0 +1,331 @@
+pack.description=v1.8_1.11 §7|§r By Milka901YT\n§7Этот текстурпак заменяет бесполезную кнопку «Обучение» на руководство в меню паузы. С его помощью вы сможете увидеть все возможные пасхалки с текстур §eAction&Stuff§7.
+
+menu.howToPlay=Easter Eggs §eA&S§r
+menu.howToPlay.generalMessage=Увидели это сообщение? Нажмите на кнопку ещё раз.
+
+howtoplay.category.eer:credits=§lИнформация
+howtoplay.button0.title=Easter Eggs Rename §eA&S 
+howtoplay.button0= Информация
+    eer:section_header=Информация o §eПакете Текстур
+    eer:author=§lСоздал: §2Milka901YT
+§c ==========================================================
+    eer:version=§lВерсия:§7 v1.8_1.11
+    eer:releasedate=§lВыпущен:§7 10.01.26
+    eer:lastupdate=§lОбновлено:§7 21.06.26
+§c ==========================================================
+    eer:description= §lОписание:§r Данный текстурпак заменяет бесполезную кнопку «Обучение» на гайд в меню паузы. С его помощью можно увидеть все возможные именные пасхалки текстур §l§eActions&Stuff§r.
+    eer:warn= §l§cДанный текстурпак не добавляет анимаций и именных пасхалок §eActions&Stuff§r.
+## §6 End
+
+howtoplay.button1.title=Easter Eggs Rename §eA&S 
+howtoplay.button1= Авторы
+    eer:credits1_header=Авторы
+    eer:credits1_text1=§lСоздатель: §2Milka901YT
+    eer:credits1_text2=§lМой Друг: §cManm98765 §7(§fОн ничего не сделал§7)
+    eer:credits1_text3=§lТестер: §3Nikita218000
+    eer:language= §lПоддерживаемые языки:§r
+    eer:language.ru-RU_text1= §o§7Russian (Russia)§r §8(§2Milka901YT §7& §3Nikita218000§8)
+    eer:language.en-US_text2= §o§7English (United States)§r §8(§2Milka901YT §7& §3ChatGPT§8)
+    eer:language.es-MX_text3= §o§7Español (México)§r §8(§3ChatGPT§8)
+    eer:language.zh-CN_text4= §o§7中文 (简体)§r §8(§3MiMi_HK98§8)
+    eer:language.zh-TW_text5= §o§7中文 (繁體)§r §8(§3MiMi_HK98§8)
+## ---  DO NOT TRANSFER ABOVE ---\\
+
+    eer:credits2.header=Ссылки
+    eer:credits2_text1= §l§bTelegram§r - мой личный канал с эксклюзивными новостями:
+    eer:credits2.copy_text1=https://t.me/anvil_guide
+    eer:credits2_text2= §l§aMCPEDL§r - cтраница проекта на §aMCPEDL§r:
+    eer:credits2.copy_text2=https://mcpedl.com/easter-eggs-rename-as
+    eer:credits2_text3= §l§6CurseForge§r - cтраница проекта на §6CurseForge§r:
+    eer:credits2.copy_text3=https://curseforge.com/minecraft-bedrock/texture-packs/easter-eggs-rename-as
+
+    eer:credits3_header=Благодарность
+    eer:credits3_text1=Благодарю §lItzRiyo157§r за разрешение использования копирование текста из текстурпака §lDéesse UI Pack:
+## §6 End
+
+howtoplay.button2.title=Easter Eggs Rename §eA&S 
+howtoplay.button2= Как написать знак параграфа?
+    eer:how_par_pc_header=Компьютер
+    eer:how_par_text2.0= §lЧтобы написать знак параграфа на компьютере, вам понадобится цифровая клавиатура:
+    eer:how_par_text2.1=§l1.§r Включите клавишу §lNum Lock§r или §lNL.
+    eer:how_par_text2.2=§l2.§r Зажмите клавишу §lAlt.
+    eer:how_par_text2.3=§l3.§r Наберите цифры §l0167§r на цифровой клавиатуре (справа).
+    eer:how_par_text2.4=§l4.§r Отпустите клавишу §lAlt.
+    eer:how_par_text2.5=§l5.§r Теперь у вас появился нужный знак§r.
+
+    eer:how_par_text2.6= Ну или скопируйте символ: §7Нажмите на строку ниже: Ctrl+A -> Ctrl+C [скопировать]. Затем Ctrl+V [Вставить].
+    eer:how_par_text2.6.1=§
+    
+    eer:how_par_phone_header=Телефон
+    eer:how_par_text3.0= §lЧтобы написать знак параграфа на телефоне, попробуйте следующие варианты:§r
+    eer:how_par_text3.1= Найдите на клавиатуре кнопку, которая переключает на символы, а затем найдите знак .
+    eer:how_par_text3.2= Если его нет, попробуйте зажать такие символы, как §l«S»§r, §l«&»§r или §l«%»§r.
+    eer:how_par_text3.3= Если и его нет, скопируйте символ: §7(Если ваша клавиатура позволяет).
+## §6 End Line
+
+§b ==========================================================
+
+howtoplay.category.eer:nametag=§lИменные Пасхалки
+howtoplay.button10.title=Easter Eggs Rename §eA&S 
+howtoplay.button10= Особые версии мобов
+eer:nametag_header=Именные пасхалки §e(Actions&Stuff)
+    eer:nametag.how.nametag_text1= §lВ данной вкладке показаны все возможные §eименные пасхалки на особых мобов§r.
+    eer:nametag_text1= Также есть два сезонных имени: '§lFestive§r' §7(новогодние пасхалки)§r и '§lHalloween§r' §7(хеллоуинские)§r. Их можно использовать вместо обычных имён.
+    eer:nametag_text2.1=§lOiia§r - кошка начнёт крутиться, как в том самом меме.
+    eer:nametag_text3.1=§lRGB§r - начнётся дискотека, во время которой слизень будет переливаться разными цветами.
+    eer:nametag_text5.1=§lNutcracker§r - при §eвзятии блока§r, эндермен уберёт свои барабаны.
+    eer:nametag_text8.1=§lMoth§r - если пчелу просто назвать '§l§oMoth§r', то цвета будут выбираться случайным цветом. 
+    eer:nametag_text9.1=§lChickzilla§r - курица станет гораздо больше обычного размера.
+    eer:nametag_text9.2=§lDennis§r - на прирученной собаке появится медальон из фильма Minecraft.
+## --- Don't translate the name. Like "Oiia" or "Moth" ---\\
+## §6 End
+
+howtoplay.button11.title=Easter Eggs Rename §eA&S 
+howtoplay.button11= Зимняя версия мобов
+    eer:nametag.snowy_header=Снежные Пасхалки §e(Actions&Stuff)
+    eer:nametag.how.nametag.snowy_text1= §lВ данной вкладке показаны все возможные §eименные пасхалки на снежных мобов§r.
+    eer:nametag.snowy_text1= Чтобы использовать, просто §eпереименуйте их§r в '§lSnowy§r' или '§lFrosty§r' с помощью §6бирки§r.
+    eer:nametag.snowy_text2= Эти мобы могут заспавниться в §eснежном биоме§r - тогда с некоторым §eшансом§r, на них тоже будет действовать эта §6пасхалка§r.
+    eer:nametag.snowy_text2.1=§lWandering Trader§r - на Торговца нельзя применить бирку, поэтому он должен заспавниться в снежном биоме.
+    eer:nametag.snowy_text3.1=§lCow§7/§fPig§7/§fChicken§r - вид этих мобов должен быть обязательно снежным.
+## ---  Don't translate the name. Like "Chicken" or "Pig" ---\\
+## §6 End
+
+howtoplay.button12.title=Easter Eggs Rename §eA&S 
+howtoplay.button12= Вишнёвая версия мобов
+    eer:nametag.cherry_header=Вишнёвые Пасхалки §e(Actions&Stuff)
+    eer:nametag.how.nametag.cherry_text1= §lВ данной вкладке показаны все возможные §eименные пасхалки на вишнёвых мобов§r.
+    eer:nametag.cherry_text1= Чтобы использовать, просто §eпереименуйте их§r в '§o§lCherry§r' с помощью §6бирки§r.
+    eer:nametag.cherry_text2= Эти мобы могут заспавниться в §eвишнёвом биоме§r - тогда с некоторым §eшансом§r, на них тоже будет действовать эта §6пасхалка§r.
+    eer:nametag.cherry_text1.1=§lCow§r - есть вид "Cherry", но на нём мало лепестков.
+    eer:nametag.cherry_text1.2=§lCreeper§r - есть вид "Cherry", но на нём мало лепестков.
+## --- Don't translate the name. Like "Cow" or "Creeper" ---\\
+## §6 End
+
+§c ==========================================================
+howtoplay.button13.title=Easter Eggs Rename §eA&S 
+howtoplay.button13= Серная версия мобов
+    eer:nametag.sulfur_header=Серные Пасхалки §e(Actions&Stuff)
+    eer:nametag.how.nametag.sulfur_text1= §lВ данной вкладке показаны все возможные §eименные пасхалки на серных мобов§r.
+    eer:nametag.sulfur_text1= Чтобы использовать, просто §eпереименуйте их§r в '§o§lSulfur§r' с помощью §6бирки§r.
+    eer:nametag.sulfur_text2= Эти мобы могут заспавниться в §ecерных пищерах§r - тогда с некоторым §eшансом§r, на них тоже будет действовать эта §6пасхалка§r.
+§c ==========================================================
+
+howtoplay.button14.title=Easter Eggs Rename §eA&S 
+howtoplay.button14= Детская версия мобов
+    eer:nametag.baby_header=Детские Пасхалки §e(Actions&Stuff)
+    eer:nametag.how.nametag.baby_text1= §lВ данной вкладке показаны все возможные §eименные пасхалки на детских мобов§r.
+    eer:nametag.baby_text1= Чтобы использовать, просто §eпереименуйте их§r в '§o§lBaby§r' с помощью §6бирки§r.
+    eer:nametag.baby_text2= §cБольшенство пасхалок неработает на '§lVanilla Experience (32x)§r§c' и даже на '§lFull Experience (64x)§r§c' на момент версии 1.11
+    eer:nametag.baby_text3= Если эти мобы - §eдети§r, то на них тоже будет §eдействовать§r эта §6пасхалка§r.
+## §6 End Line
+
+§b ==========================================================
+
+howtoplay.category.eer:deco=§lИменные Декорации
+howtoplay.button21.title=Easter Eggs Rename §eA&S 
+howtoplay.button21= Декорации
+    eer:deco_header=Именные Декорации §e(Actions&Stuff)
+    eer:deco.how.deco_text1= §lВ данной вкладке показаны все возможные §eименные пасхалки на декорации§r.
+    eer:deco_text3.1= §lMangrove Door§r - взаимодействуйте с гробом, чтобы открыть его!
+    eer:deco_text3.2= §lChiseled Stone Bricks§r - ночью из этой могилы вылезает зомби!
+    eer:deco_text4.1= §lWheat§r - ночью это пугало оживает!
+    eer:deco_text4.2= §lTwisting Vines§7 /  §fWeeping Vines§r - если повернуть стойку на 45°, то леденец увеличится.
+    eer:deco_text6.1= §lPufferfish§r - взаимодействуйте с шариками, чтобы сменить их!
+    eer:deco_text6.2= §lCocoa Beans§r - постучите три раза, чтобы увидеть пряничного человечка!
+§c ==========================================================
+    eer:deco_text7.1= §lWeb[1]§r - поставьте под стойку для брони любой люк, чтобы появились конфетти!
+    eer:deco_text7.2= §lWeb[2]§r - поставьте перед воротами любые люки для появления конфетти. А также поставьте в сетку стеклянную панель.
+    eer:deco_text7.3= §lWeb[3]§r - поставьте в сетку стеклянную панель.
+    eer:deco_text8.1= §lCopper Buld§r - взаимодействуйте, чтобы менять числа. Также вы можете сложить несколько штук рядом!
+    eer:deco_text8.2= §lCopper Lantern§r - взаимодействуйте для переключения между 4 состояниями: §7Вверх-белый, Вниз-белый, Вверх RGB, Вниз RGB§r.
+§c ==========================================================
+## --- Don't translate the name. Like "Wheat" or "Pufferfish" ---\\
+## §6 End 
+
+howtoplay.button22.title=Easter Eggs Rename §eA&S 
+howtoplay.button22= Игрушки
+    eer:deco.plushes_header=Игрушки §e(Actions&Stuff)
+    eer:deco.how.deco.plushie_text1= §lВ данной вкладке показаны все возможные §eименные пасхалки на игрушки§r.
+## §6 End
+
+howtoplay.button23.title=Easter Eggs Rename §eA&S 
+howtoplay.button23= Подарки
+    eer:deco.presents_header=Подарки §e(Actions&Stuff)
+    eer:deco.how.deco.presents_text1= §lВ данной вкладке показаны все возможные §eименные пасхалки на подарки§r.
+    eer:deco.presents_text1= Изначально все §6подарки §eзакрыты§r. Они §eоткрываются §rтолько при §eвзаимодействии§r с ними.
+## §6 End 
+
+howtoplay.button24.title=Easter Eggs Rename §eA&S 
+howtoplay.button24= Носки
+    eer:deco.stockings_header=Носки §e(Actions&Stuff)
+    eer:deco.how.deco.stockings_text1= §lВ данной вкладке показаны все возможные §eименные пасхалки на носки§r.
+    eer:deco.stockings.how_text1= А затем§e окуните§n кожаные ботинки§e в цветной котёл§r и наденьте на §eстойку для брони§r.
+    eer:deco.stockings.how_text2= §cЧтобы сделать §lновые носки,§r§c сначала §lочистите котёл§r§c от §lокрашенной воды.
+    eer:deco_stockings_text1= Что значит 2 красителя? Это означает, что нужно §eокунуть сразу два красителя§r, которые указаны.
+## §6 End
+
+howtoplay.button25.title=Easter Eggs Rename §eA&S 
+howtoplay.button25= Коврики
+    eer:deco.rugs_header=Коврики §e(Actions&Stuff)
+    eer:deco.how.deco.rugs_text1= §lВ данной вкладке показаны все возможные §eименные пасхалки на коврики§r.
+    eer:deco.rugs_text1= Чтобы §6коврики§r появились, §eвзаимодействуйте§r с ними.
+§c ==========================================================
+    eer:deco.rugs_text2= §6Коврики§r можно совмещать с другими, чтобы получить §eогромный коврик!
+§c ==========================================================
+## §6 End
+
+§c ==========================================================
+howtoplay.button26.title=Easter Eggs Rename §eA&S 
+howtoplay.button26= Флаги
+    eer:deco.flag_header=Флаги §e(Actions&Stuff)
+    eer:deco.how.deco.flag_text1= §lВ данной вкладке показаны все доступные §eименные пасхалки на флаги§r.
+    eer:deco.how.deco.flag_text2= Также дайте §eстойке для брони§r любой баннер (подходит любой).
+    eer:how.flag_text1= Отображение §eцвета §nкожаных ботинок§r для §eстойки для броню§r.
+    eer:deco.flag_text1= §cЧтобы сделать §lновые флаги,§r§c сначала §lочистите котёл§r§c от §lокрашенной воды.
+    eer:deco.flag_text2= Все разновидности флагов при взаимодействии с ними:
+    eer:deco.flag_text0.1=§l[1]§r - ставится на §eпол§r.
+    eer:deco.flag_text0.2=§l[2]§r - ставится на §eстену§r.
+    eer:deco.flag_text0.3=§l[3]§r - ставится на §eпол§r.
+    eer:deco.flag_text0.4=§l[4]§r - ставится на §eзабор§r.
+    eer:deco.flag_text3= §lItem§r - в какой §eцвет§r §6покрасить §eботинки§r.
+    eer:deco.flag_text4= Отображение §eлюбого баннера§r для §eстойки для брони§r.
+## §6 End
+
+howtoplay.button27.title=Easter Eggs Rename §eA&S 
+howtoplay.button27= Кубики
+    eer:deco.sulfur.cube_header=Кубики §e(Actions&Stuff)
+    eer:deco.how.deco.sulfur.cube_text1= §lВ данной вкладке показаны все возможные §eименные пасхалки на серного куба§r.
+    eer:deco.how.deco.sulfur.cube_text2= Чтобы использовать, просто §eпереименуйте серный куб§r с помощью §6бирки§r.
+    eer:deco.how.sulfur.cube_text1= Можно применить на них §eцвета§r. Для применения надо в §eначале §6бирки§r написать нужный цвет. 
+    eer:deco.how.sulfur.cube_text1_1=- Например: §7"Golf Ball"§r -> §7"Green Golf Ball"§r.
+    eer:deco.sulfur.cube_text1= Официальная карта от Oreville, на которой есть 13 мини-игр с ними:
+    eer:deco.sulfur.cube.copy_text1=https://orevillestudios.com/actions-&-stuff/chaos-cubed-world/download
+    eer:deco.how.sulfur.cube_text2= §lItem§r - §eрекомендуемый§r предмет, который надо дать §eсерному кубу§r.
+    eer:deco.how.sulfur.cube_text3= Отображение §eрекомендации§r предмета, который надо дать §eсерному кубу§r.
+    eer:deco.sulfur.cube_text1.1= §lLarge§r - серный куб обретёт §eкрупную форму§r.
+    eer:deco.sulfur.cube_text1.2= §lBlock§r - серный куб станет §eразмером с блок§r.
+    eer:deco.sulfur.cube_text1.3= §lSmall§r - серный куб §eуменьшится§r до §eмаленького размера§r.
+    eer:deco.sulfur.cube_text2.1= §lGolf Ball§r - доступные цвета: §7"Green, Orange, Pink, Yellow"§r
+    eer:deco.sulfur.cube_text3.1= §lBowling Ball§r - доступные цвета: §7"Blue, Green, Orange, Pink, Red, White"§r
+    eer:deco.sulfur.cube_text3.2= §lBowling Pin§r - используйте ведро, чтобы кегля снова встала.
+    eer:deco.sulfur.cube_text3.3= §lCurling Stone§r - доступные цвета: §7"Blue, Green, Red, Yellow"§r
+    eer:deco.sulfur.cube_text4.1= §lBilliards Ball§r - доступные цвета: §7"Black, Blue, Brown, Green, Pink, Red, White, Yellow"§r
+    eer:deco.sulfur.cube_text4.2= §lBilliards Ball Spot§r - доступные цвета: §7"Maroon, Black, Blue, Green, Orange, Purple, Red, Yellow"§r
+    eer:deco.sulfur.cube_text4.3= §lBilliards Ball Stripe§r - доступные цвета: §7"Maroon, Blue, Green, Orange, Purple, Red, Yellow"§r
+    eer:deco.sulfur.cube_text4.4= §lPlastic Ball§r - доступные цвета: §7"Blue, Green, Pink, Red, Yellow"§r
+## --- Don't translate the name. Like "Plastic Ball" or "Green" ---\\
+
+## §6 End Line
+§c ==========================================================
+
+§b ==========================================================
+
+howtoplay.category.eer:clothes=§lОстальное
+howtoplay.button31.title=Easter Eggs Rename §eA&S 
+howtoplay.button31= Шляпы
+    eer:head_header=Шляпы §e(Actions&Stuff)
+    eer:heads_text1= §lВ данной вкладке показаны все возможные §eшляпы§r.
+    eer:heads_text2= Чтобы использовать, вам потребуются §eправа оператора§r. После этого введите §eкоманду§r:
+    eer:heads_text3=/replaceitem entity @s slot.armor.head 0 <Предмет>
+    eer:heads_text4= §lПример: §b/replaceitem entity @s slot.armor.head 0 §ocactus
+## §6 End 
+
+howtoplay.button32.title=Easter Eggs Rename §eA&S 
+howtoplay.button32= Одежда
+    eer:costumes_header=Одежда §e(Actions&Stuff)
+    eer:costumes_text0= §lВ данной вкладке показана вся возможная §eодежда§r.
+    eer:costumes_text1= Чтобы использовать, вам потребуются §eкузнечные шаблоны§r.
+    eer:costumes_text2= Затем нужно украсить этими §eШаблонами: §nКожаную броню§r.
+    eer:costumes_text4= §aМожно создать одну часть брони - тогда получится шапка Деда Мороза.
+    eer:costumes_text5= §cРаботает только, если вы поставите настройку §l§eActions&Stuff§r§c на '§lFull Experience (64x)'
+## §6 End
+howtoplay.button33.title=Easter Eggs Rename §eA&S 
+howtoplay.button33= Превращение
+    eer:morph_header=Превращение §e(Actions&Stuff)
+    eer:morph_text1= §lВ данной вкладке показаны все возможные §eпревращения§r.
+    eer:morph_text2= Для использования, перейдите в §eнастройки §lActions&Stuff§r.
+    eer:morph_text3= Затем §eнайдите строку§r '§l§oMorphs§r' и §eвыберите§r, в кого хотите §eпревратиться§r.
+    eer:morph_text4= Данные §eпревращения видны только вам§r, и не распространяются на §eдругих игроков§r.
+    eer:morph_text1.1=§lMine me§r - детская версия вашего скина.
+    eer:morph_text2.1= §cПерсонаж "Sully: Sulfur Cube" временно отсутствует.
+## --- Don't translate the name. Like "Sully: Sulfur Cube" ---\\
+## §6 End
+
+howtoplay.button34.title=Easter Eggs Rename §eA&S 
+howtoplay.button34= Позы
+    eer:poses_header=Позы §e(Actions&Stuff)
+    eer:poses_text1= §lВ данной вкладке показаны все возможные §eпозы§r.
+    eer:poses_text2= §lСесть§r - поза позволяет сидеть. Для использования §eдержите Shift 5 секунд§f и §eсмотрите вниз.
+## §6 End Line
+
+§b ==========================================================
+
+howtoplay.category.eer:other=§lДругое
+howtoplay.button40.title=Easter Eggs Rename §eA&S 
+howtoplay.button40= Пользовательское соглашение
+    eer:Terms_of_Use_header=Пользовательское Соглашение
+    eer:Terms_of_Use.yes_text1= §lВам §aразрешается§r:
+    eer:Terms_of_Use.yes_text2= Редактировать текстуры только для §eличного использования§r.
+    eer:Terms_of_Use.yes_text3= Создание §eвидео контента§r для различных платформ.
+
+    eer:Terms_of_Use.not_text1= §lВам §cНЕ разрешается§r:
+    eer:Terms_of_Use.not_text2= Распространять текстурпак §eчерез другие ссылки§r. Используйте только официальные страницы: §l§aMCPEDL§r или §l§vCurseForge§r§r.
+    eer:Terms_of_Use.not_text3= Публиковать §eизмененную версию текстурпака§r.
+## §6 End 
+
+howtoplay.button41.title=Easter Eggs Rename §eA&S 
+howtoplay.button41= Изменение
+    eer:changelog_header=Изменение
+§c ==========================================================
+    eer:changelog_text1=§lВерсия: v1.8_1.11§r §7(20.06.2026)
+    eer:changelog_text2= Добавлены именные пасхалки §eActions&Stuff 1.11§r:
+    eer:changelog_text3= Новые вкладки: §l" Серная версия мобов"§r, §l" Флаги"§r, §l" Кубики"§r
+    eer:changelog_text4= Новые декорации в вкладке §l" Декорации"§r
+    eer:changelog_text5= Убран показ версий у пасхалок, так как было слишком много нестыковок, и я запутался :(
+    eer:changelog_text6=
+    eer:changelog_text7=
+    eer:changelog_text8=
+    eer:changelog_text9=
+§c ==========================================================
+## §6 End
+
+howtoplay.button42.title=Easter Eggs Rename §eA&S 
+howtoplay.button42= Мои проекты
+    eer:project.item.finder_header=§2Item Finder §7(текстурпак)
+##     §2 project/item_finder
+    eer:project.item.finder_text1= §lItem Finder§r - подсветка предмета, когда ты держишь такой же предмет в ивентаре. Также цвет подсветки можно изменить.
+    eer:project.item.finder.copy_text2=https://mcpedl.com/itemfinder
+    eer:project.item.finder.copy_text3=https://curseforge.com/minecraft-bedrock/texture-packs/itemfinder
+
+    eer:project.joinleave_header=§eJoin§3Leave §7(текстурпак)
+##     §2 project/joinleave
+    eer:project.joinleave_text1= §l§eJoin§3Leave§r - текстуры которые изменяют системное сообщение при входе или выходе игрока.
+    eer:project.joinleave.copy_text2=https://mcpedl.com/joinleave
+    eer:project.joinleave.copy_text3=https://curseforge.com/minecraft-bedrock/texture-packs/joinleave
+## §6 End Line
+
+
+    howtoplay.how.use_info.nametag=§l Как использовать и дополнительная информация
+    howtoplay.how.use_info.deco=§l Как использовать и дополнительная информация
+    howtoplay.how.use_info.other=§l Как использовать и дополнительная информация
+
+    eer:how_text1= Чтобы использовать, просто §eпереименуйте моба§r с помощью §6бирки§r.
+    eer:how_text2= §lMobe§r - для каких §eмобов§r можно использовать §6бирку§r.
+    eer:how_text3= §lNametag§r - как назвать §eмоба§r, чтобы сработала §6пасхалка§r.
+    eer:how_text4= §lVersion§r - для какой версии §e§lActions&Stuff§r эта §6пасхалка§r.
+    eer:how_text5= Пасхалка работает только в паке §lFull Experience (64x)§r, на момент §eверсии §l1.11§r
+    eer:how_text6= Факты или дополнительная информация о мобе.
+
+    eer:how_text7= Чтобы использовать, переименуйте §eстойку для брони§r двумя знаками "" через §6бирку§r.
+    eer:how_text8= А затем дайте §eстойке для брони§r нужный §eпредмет§r.
+    eer:how_text9= §lItem§r - какой §eпредмет§r дать §eстойке для брони§r.
+    eer:how_text10= Отображение §eпредмета§r для §eстойки для брони§r.
+    eer:how_text11= Факты или дополнительная информация о декорации.
+    eer:how_text12= Отображение §eлюбой руды§r для применении на §eшаблон§r.
+    eer:how_text13= Отображение §eпредмета§r для §eковки на броню§r.
+    eer:how_text14= §lUse§r - для §eполучения§r, нужно §eвзаимодействовать§r с изначальной §6игрушкой§r.
+
+    eer:how_text15= §lArmor Stand§r - приведённый §eпример§r на §eстойке для брони§r.
+    eer:how_text16= §lItem§r - какой §eпредмет§r §6выдать §eстойке для брони§r.
+## Don't translate the name. Like "Mobe" or "Item"

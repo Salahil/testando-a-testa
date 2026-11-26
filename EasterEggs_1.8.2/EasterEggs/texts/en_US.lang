@@ -1,0 +1,328 @@
+pack.description=v1.8_1.11 §7|§r By Milka901YT\n§7This resource pack replaces the useless 'How to Play' button with a guide in the pause menu. It lets you view all possible name-based easter eggs from the §eActions&Stuff§7 textures.
+
+menu.howToPlay=Easter Eggs §eA&S§r
+menu.howToPlay.generalMessage=See this message? Press the button again.
+
+howtoplay.category.eer:credits=§lInformation
+howtoplay.button0.title=Easter Eggs Rename §eA&S 
+howtoplay.button0= Information
+    eer:section_header=Information About the §eResource Pack
+    eer:author=§lCreated by: §2Milka901YT
+§c ==========================================================
+    eer:version=§lVersion:§r§7 v1.8_1.11
+    eer:releasedate=§lReleased:§r§7 10.01.26
+    eer:lastupdate=§lUpdated:§r§7 06.21.26
+§c ==========================================================
+    eer:description= §lDescription:§r This resource pack replaces the useless 'How to Play' button with a guide in the pause menu. It lets you view all possible name-based easter eggs from the §l§eActions&Stuff§r textures.
+    eer:warn= §l§cThis resource pack does not add any animations or §eActions&Stuff§c name-based easter eggs§r.
+## §6 End
+
+howtoplay.button1.title=Easter Eggs Rename §eA&S 
+howtoplay.button1= Credits
+    eer:credits1_header=Credits
+    eer:credits1_text1=§lCreator: §2Milka901YT
+    eer:credits1_text2=§lMy Friend: §cManm98765 §7(§fHe did nothing§7)
+    eer:credits1_text3=§lTester:§3 Nikita218000
+    eer:language= §lSupported languages:§r
+    eer:language.ru-RU_text1= §o§7Russian (Russia)§r §8(§2Milka901YT §7& §3Nikita218000§8)
+    eer:language.en-US_text2= §o§7English (United States)§r §8(§2Milka901YT §7& §3ChatGPT§8)
+    eer:language.es-MX_text3= §o§7Español (México)§r §8(§3ChatGPT§8)
+    eer:language.zh-CN_text4= §o§7中文 (简体)§r §8(§3MiMi_HK98§8)
+    eer:language.zh-TW_text5= §o§7中文 (繁體)§r §8(§3MiMi_HK98§8)
+## Don't translate the name. Like "Russian (Russia)" or "中文 (简体)"
+
+    eer:credits2.header=Links
+    eer:credits2_text1= §l§9Discord§r - my personal channel with exclusive news:
+    eer:credits2.copy_text1=https://discord.gg/N8szypQqTR
+    eer:credits2_text2= §l§aMCPEDL§r - project page on §aMCPEDL§r:
+    eer:credits2.copy_text2=https://mcpedl.com/easter-eggs-rename-as
+    eer:credits2_text3= §l§6CurseForge§r - project page on §6CurseForge§r:
+    eer:credits2.copy_text3=https://curseforge.com/minecraft-bedrock/texture-packs/easter-eggs-rename-as
+
+    eer:credits3_header=Special Thanks
+    eer:credits3_text1=Thanks to §lItzRiyo157§r for allowing me to copy text from the §lDéesse UI Pack§r resource pack:
+## §6 End
+
+howtoplay.button2.title=Easter Eggs Rename §eA&S 
+howtoplay.button2= How to Type the Section Sign?
+    eer:how_par_pc_header=Computer
+    eer:how_par_text2.0= §lTo type the section sign on a computer, you will need a numeric keypad:
+    eer:how_par_text2.1=§l1.§r Turn on §lNum Lock§r or §lNL.
+    eer:how_par_text2.2=§l2.§r Hold the §lAlt§r key.
+    eer:how_par_text2.3=§l3.§r Type §l0167§r on the numeric keypad on the right.
+    eer:how_par_text2.4=§l4.§r Release the §lAlt§r key.
+    eer:how_par_text2.5=§l5.§r Now you have the sign you need§r.
+
+    eer:how_par_text2.6= Or just copy the symbol: §7Press the line below: Ctrl+A -> Ctrl+C [copy]. Then Ctrl+V [paste].
+    eer:how_par_text2.6.1=§
+    
+    eer:how_par_phone_header=Phone
+    eer:how_par_text3.0= §lTo type the section sign on a phone, try these options:§r
+    eer:how_par_text3.1= Find the keyboard button that switches to symbols, then look for the  sign.
+    eer:how_par_text3.2= If it is not there, try holding symbols like §l'S'§r, §l'&'§r, or §l'%'§r.
+    eer:how_par_text3.3= If that still does not work, copy the symbol: §7(if your keyboard allows it).
+## §6 End Line
+
+§b ==========================================================
+
+howtoplay.category.eer:nametag=§lNameTags
+howtoplay.button10.title=Easter Eggs Rename §eA&S 
+howtoplay.button10= Standard Nametags
+eer:nametag_header=Standard Nametags §e(Actions&Stuff)
+    eer:nametag.how.nametag_text1= §lThis tab shows all available §ename-based easter eggs for special mobs§r.
+    eer:nametag_text1= There are also two seasonal names: '§lFestive§r' §7(Christmas easter eggs)§r and '§lHalloween§r' §7(Halloween easter eggs)§r. They can be used instead of the regular names.
+    eer:nametag_text2.1=§lOiia§r - the cat will start spinning like in that meme.
+    eer:nametag_text3.1=§lRGB§r - a disco will start, and the slime will shimmer in different colors.
+    eer:nametag_text5.1=§lNutcracker§r - when §epicking up a block§r, the enderman will put away his drums.
+    eer:nametag_text8.1=§lMoth§r - if you simply name a bee '§l§oMoth§r', its colors will be chosen at random. 
+    eer:nametag_text9.1=§lChickzilla§r - the chicken will become much bigger than normal.
+    eer:nametag_text9.2=§lDennis§r - a medallion from A Minecraft Movie will appear on a tamed wolf.
+## --- Don't translate the name. Like "Oiia" or "Moth" ---\\
+## §6 End
+
+howtoplay.button11.title=Easter Eggs Rename §eA&S 
+howtoplay.button11= Snowy Nametags
+    eer:nametag.snowy_header=Snowy Nametags §e(Actions&Stuff)
+    eer:nametag.how.nametag.snowy_text1= §lThis tab shows all available §ename-based easter eggs for snowy mobs§r.
+    eer:nametag.snowy_text1= To use them, simply §erename them§r to '§lSnowy§r' or '§lFrosty§r' using a §6Name Tag§r.
+    eer:nametag.snowy_text2= These mobs can spawn in a §esnowy biome§r - then there is a §echance§r that this §6easter egg§r will also apply to them.
+    eer:nametag.snowy_text2.1=§lWandering Trader§r - a Name Tag cannot be used on the Trader, so he must spawn in a snowy biome.
+    eer:nametag.snowy_text3.1=§lCow§7/§fPig§7/§fChicken§r - these mobs must be their snowy variants.
+## --- Don't translate the name. Like "Cow" or "Creeper" ---\\
+## §6 End
+
+howtoplay.button12.title=Easter Eggs Rename §eA&S 
+howtoplay.button12= Cherry Nametags
+    eer:nametag.cherry_header=Cherry Nametags §e(Actions&Stuff)
+    eer:nametag.how.nametag.cherry_text1= §lThis tab shows all available §ename-based easter eggs for cherry mobs§r.
+    eer:nametag.cherry_text1= To use them, simply §erename them§r to '§o§lCherry§r' using a §6Name Tag§r.
+    eer:nametag.cherry_text2= These mobs can spawn in a §echerry biome§r - then there is a §echance§r that this §6easter egg§r will also apply to them.
+    eer:nametag.cherry_text1.1=§lCow§r - there is a "Cherry" variant, but it has only a few petals.
+    eer:nametag.cherry_text1.2=§lCreeper§r - there is a "Cherry""erry variant, but it has only a few petals.
+## §6 End
+
+§c ==========================================================
+howtoplay.button13.title=Easter Eggs Rename §eA&S 
+howtoplay.button13= Sulfur Nametags
+    eer:nametag.sulfur_header=Sulfur Nametags §e(Actions&Stuff)
+    eer:nametag.how.nametag.sulfur_text1= §lThis tab shows every available §ename-based easter egg for sulfur mobs§r.
+    eer:nametag.sulfur_text1= To use them, simply §erename the mob§r to '§o§lSulfur§r' with a §6Name Tag§r.
+    eer:nametag.sulfur_text2= These mobs can also spawn in §esulfur caves§r - if they do, there is a §echance§r that this §6easter egg§r will apply automatically.
+§c ==========================================================
+
+howtoplay.button14.title=Easter Eggs Rename §eA&S 
+howtoplay.button14= Baby Nametags
+    eer:nametag.baby_header=Baby Nametags §e(Actions&Stuff)
+    eer:nametag.how.nametag.baby_text1= §lThis tab shows all available §ename-based easter eggs for baby mobs§r.
+    eer:nametag.baby_text1= To use them, simply §erename them§r to '§o§lBaby§r' using a §6Name Tag§r.
+    eer:nametag.baby_text2= §cMost easter eggs do not work on '§lVanilla Experience (32x)§r§c' or even on '§lFull Experience (64x)§r§c' as of version 1.11
+    eer:nametag.baby_text3= If these mobs are §ebabies§r, this §6easter egg§r will also §eapply§r to them.
+## §6 End Line
+
+§b ==========================================================
+
+howtoplay.category.eer:deco=§lProps
+howtoplay.button21.title=Easter Eggs Rename §eA&S 
+howtoplay.button21= Decorations
+    eer:deco_header=Name-Decorations §e(Actions&Stuff)
+    eer:deco.how.deco_text1= §lThis tab shows all available §ename-based easter eggs for decorations§r.
+    eer:deco_text3.1= §lMangrove Door§r - interact with the coffin to open it!
+    eer:deco_text3.2= §lChiseled Stone Bricks§r - a zombie climbs out of this grave at night!
+    eer:deco_text4.1= §lWheat§r - this scarecrow comes alive at night!
+    eer:deco_text4.2= §lTwisting Vines§7 /  §fWeeping Vines§r - rotate the armor stand by 45° to make the candy cane bigger.
+    eer:deco_text6.1= §lPufferfish§r - interact with the balloons to change them!
+    eer:deco_text6.2= §lCocoa Beans§r - knock three times to see the gingerbread man!
+§c ==========================================================
+    eer:deco_text7.1= §lWeb[1]§r - place any trapdoor under the armor stand to make confetti appear!
+    eer:deco_text7.2= §lWeb[2]§r - place any trapdoors in front of the gate to make confetti appear. Also place a glass pane inside the web.
+    eer:deco_text7.3= §lWeb[3]§r - place a glass pane inside the web.
+    eer:deco_text8.1= §lCopper Bulb§r - interact with it to change the numbers. You can also place several of them side by side!
+    eer:deco_text8.2= §lCopper Lantern§r - interact with it to switch between 4 states: §7Up White, Down White, Up RGB, Down RGB§r.
+§c ==========================================================
+## --- Don't translate the name. Like "Wheat" or "Pufferfish" ---\\
+## §6 End 
+
+howtoplay.button22.title=Easter Eggs Rename §eA&S 
+howtoplay.button22= Plushies
+    eer:deco.plushes_header=Plushies §e(Actions&Stuff)
+    eer:deco.how.deco.plushie_text1= §lThis tab shows all available §ename-based easter eggs for plushies§r.
+## §6 End
+
+howtoplay.button23.title=Easter Eggs Rename §eA&S 
+howtoplay.button23= Presents
+    eer:deco.presents_header=Presents §e(Actions&Stuff)
+    eer:deco.how.deco.presents_text1= §lThis tab shows all available §ename-based easter eggs for presents§r.
+    eer:deco.presents_text1= By default, all §6presents §eare closed§r. They §eopen§r only when you §einteract§r with them.
+## §6 End 
+
+howtoplay.button24.title=Easter Eggs Rename §eA&S 
+howtoplay.button24= Stockings
+    eer:deco.stockings_header=Stockings §e(Actions&Stuff)
+    eer:deco.how.deco.stockings_text1= §lThis tab shows all available §ename-based easter eggs for stockings§r.
+    eer:deco.stockings.how_text1= Then §edip§n leather boots§e into a dyed cauldron§r and put them on an §earmor stand§r.
+    eer:deco.stockings.how_text2= §cTo make §lnew stockings,§r§c first §lclear the cauldron§r§c of §ldyed water§r§c.
+    eer:deco_stockings_text1= What does 2 dyes mean? It means you need to §edip both listed dyes§r at once.
+## §6 End
+
+howtoplay.button25.title=Easter Eggs Rename §eA&S 
+howtoplay.button25= Rugs
+    eer:deco.rugs_header=Rugs §e(Actions&Stuff)
+    eer:deco.how.deco.rugs_text1= §lThis tab shows all available §ename-based easter eggs for rugs§r.
+    eer:deco.rugs_text1= To make the §6rugs§r appear, §einteract§r with them.
+§c ==========================================================
+    eer:deco.rugs_text2= §6Rugs§r can be combined with others to create a §ehuge rug!
+§c ==========================================================
+## §6 End
+
+§c ==========================================================
+howtoplay.button26.title=Easter Eggs Rename §eA&S 
+howtoplay.button26= Flags
+    eer:deco.flag_header=Flags §e(Actions&Stuff)
+    eer:deco.how.deco.flag_text1= §lThis tab shows every available §ename-based easter egg for flags§r.
+    eer:deco.how.deco.flag_text2= Also give the §earmor stand§r any banner (any banner works).
+    eer:how.flag_text1= Shows the §ecolor of the §nleather boots§r on the §earmor stand§r.
+    eer:deco.flag_text1= §cTo make §lnew flags,§r§c first §lclear the cauldron§r§c of §ldyed water§r§c.
+    eer:deco.flag_text2= All flag variants when you interact with them:
+    eer:deco.flag_text0.1=§l[1]§r - placed on the §efloor§r.
+    eer:deco.flag_text0.2=§l[2]§r - placed on a §ewall§r.
+    eer:deco.flag_text0.3=§l[3]§r - placed on the §efloor§r.
+    eer:deco.flag_text0.4=§l[4]§r - placed on a §efence§r.
+    eer:deco.flag_text3=§lItem§r - which §ecolor§r to §6dye the boots§r.
+    eer:deco.flag_text4= Shows §eany banner§r on the §earmor stand§r.
+## §6 End
+
+howtoplay.button27.title=Easter Eggs Rename §eA&S 
+howtoplay.button27= Cubes
+    eer:deco.sulfur.cube_header=Sulfur Cubes §e(Actions&Stuff)
+    eer:deco.how.deco.sulfur.cube_text1= §lThis tab shows every available §ename-based easter egg for Sulfur Cubes§r.
+    eer:deco.how.deco.sulfur.cube_text2= To use them, simply §erename the Sulfur Cube§r with a §6Name Tag§r.
+    eer:deco.how.sulfur.cube_text1= You can apply §ecolors§r to them. To do that, write the desired color at the §ebeginning§r of the §6Name Tag§r.
+    eer:deco.how.sulfur.cube_text1_1=- Example: §7"Golf Ball"§r -> §7"Green Golf Ball"§r.
+    eer:deco.sulfur.cube_text1= Official map by Oreville with 13 minigames featuring them:
+    eer:deco.sulfur.cube.copy_text1=https://orevillestudios.com/actions-&-stuff/chaos-cubed-world/download
+    eer:deco.how.sulfur.cube_text2= §lItem§r - the §erecommended§r item to give to the §eSulfur Cube§r.
+    eer:deco.how.sulfur.cube_text3= Shows the §erecommended item§r to give to the §eSulfur Cube§r.
+    eer:deco.sulfur.cube_text1.1= §lLarge§r - the Sulfur Cube takes on a §elarge form§r.
+    eer:deco.sulfur.cube_text1.2= §lBlock§r - the Sulfur Cube becomes §eblock-sized§r.
+    eer:deco.sulfur.cube_text1.3= §lSmall§r - the Sulfur Cube shrinks into a §esmall form§r.
+    eer:deco.sulfur.cube_text2.1= §lGolf Ball§r - available colors: §7"Green, Orange, Pink, Yellow"§r
+    eer:deco.sulfur.cube_text3.1= §lBowling Ball§r - available colors: §7"Blue, Green, Orange, Pink, Red, White"§r
+    eer:deco.sulfur.cube_text3.2= §lBowling Pin§r - use a bucket to set the pin upright again.
+    eer:deco.sulfur.cube_text3.3= §lCurling Stone§r - available colors: §7"Blue, Green, Red, Yellow"§r
+    eer:deco.sulfur.cube_text4.1= §lBilliards Ball§r - available colors: §7"Black, Blue, Brown, Green, Pink, Red, White, Yellow"§r
+    eer:deco.sulfur.cube_text4.2= §lBilliards Ball Spot§r - available colors: §7"Maroon, Black, Blue, Green, Orange, Purple, Red, Yellow"§r
+    eer:deco.sulfur.cube_text4.3= §lBilliards Ball Stripe§r - available colors: §7"Maroon, Blue, Green, Orange, Purple, Red, Yellow"§r
+    eer:deco.sulfur.cube_text4.4= §lPlastic Ball§r - available colors: §7"Blue, Green, Pink, Red, Yellow"§r
+## --- Don't translate the name. Like "Plastic Ball" or "Green" ---\\
+§c ==========================================================
+## §6 End Line
+
+§b ==========================================================
+
+howtoplay.category.eer:clothes=§lOther
+howtoplay.button31.title=Easter Eggs Rename §eA&S 
+howtoplay.button31= Hats
+    eer:head_header=Hats §e(Actions&Stuff)
+    eer:heads_text1= §lThis tab shows all available §ehats§r.
+    eer:heads_text2= To use them, you will need §eoperator permissions§r. After that, enter this §ecommand§r:
+    eer:heads_text3=/replaceitem entity @s slot.armor.head 0 <Item>
+    eer:heads_text4= §lExample: §b/replaceitem entity @s slot.armor.head 0 §ocactus
+## §6 End 
+
+howtoplay.button32.title=Easter Eggs Rename §eA&S 
+howtoplay.button32= Clothing
+    eer:costumes_header=Clothing §e(Actions&Stuff)
+    eer:costumes_text0= §lThis tab shows all available §eclothing§r.
+    eer:costumes_text1= To use it, you will need §esmithing templates§r.
+    eer:costumes_text2= Then use these §eTemplates§r to trim §nLeather Armor§r.
+    eer:costumes_text4= §aYou can craft just one armor piece - it will become a Santa hat.
+    eer:costumes_text5= §cWorks only if you set §l§eActions&Stuff§r§c to '§lFull Experience (64x)'
+## §6 End
+howtoplay.button33.title=Easter Eggs Rename §eA&S 
+howtoplay.button33= Morphs
+    eer:morph_header=Morphs §e(Actions&Stuff)
+    eer:morph_text1= §lThis tab shows all available §emorphs§r.
+    eer:morph_text2= To use them, open the §eActions&Stuff§r §esettings§r.
+    eer:morph_text3= Then §efind the§r '§l§oMorphs§r' option and §echoose§r who you want to §emorph into§r.
+    eer:morph_text4= These §emorphs are visible only to you§r and do not apply to §eother players§r.
+    eer:morph_text1.1=§lMine me§r - a baby version of your skin.
+    eer:morph_text2.1= §cThe character "Sully: Sulfur Cube" is temporarily unavailable.
+## --- Don't translate the name. Like "Sully: Sulfur Cube" ---\\
+## §6 End
+
+howtoplay.button34.title=Easter Eggs Rename §eA&S 
+howtoplay.button34= Poses
+    eer:poses_header=Poses §e(Actions&Stuff)
+    eer:poses_text1= §lThis tab shows all available §eposes§r.
+    eer:poses_text2= §lSitting§r - this pose lets you sit. To use it, §ehold Shift for 5 seconds§f and §elook down§r.
+## §6 End Line
+
+§b ==========================================================
+
+howtoplay.category.eer:other=§lOther
+howtoplay.button40.title=Easter Eggs Rename §eA&S 
+howtoplay.button40= Terms of Use
+    eer:Terms_of_Use_header=Terms of Use
+    eer:Terms_of_Use.yes_text1= §lYou §amay§r:
+    eer:Terms_of_Use.yes_text2= Edit textures only for §epersonal use§r.
+    eer:Terms_of_Use.yes_text3= Create §evideo content§r for different platforms.
+
+    eer:Terms_of_Use.not_text1= §lYou may §cNOT§r:
+    eer:Terms_of_Use.not_text2= Distribute the resource pack §ethrough other links§r. Use only the official pages: §l§aMCPEDL§r or §l§vCurseForge§r§r.
+    eer:Terms_of_Use.not_text3= Publish a §emodified version of the resource pack§r.
+## §6 End 
+
+howtoplay.button41.title=Easter Eggs Rename §eA&S 
+howtoplay.button41= Changelog
+    eer:changelog_header=Changelog
+§c ==========================================================
+    eer:changelog_text1=§lVersion: v1.8_1.11§r §7(21.06.2026)
+    eer:changelog_text2= Added name-based easter eggs for §eActions&Stuff 1.11§r:
+    eer:changelog_text3= New tabs: §l" Sulfur Mob Variants"§r, §l" Flags"§r, §l" Sulfur Cubes"§r
+    eer:changelog_text4= New decorations in the §l" Decorations"§r tab
+    eer:changelog_text5= Removed version labels from easter eggs because there were too many inconsistencies, and I got confused :(
+    eer:changelog_text6=
+    eer:changelog_text7=
+    eer:changelog_text8=
+    eer:changelog_text9=
+§c ==========================================================
+## §6 End
+
+howtoplay.button42.title=Easter Eggs Rename §eA&S 
+howtoplay.button42= My Projects
+    eer:project.item.finder_header=§2Item Finder §7(resource pack)
+##     §2 project/item_finder
+    eer:project.item.finder_text1= §lItem Finder§r - highlights an item when you are holding the same item in your inventory. The highlight color can also be changed.
+    eer:project.item.finder.copy_text2=https://mcpedl.com/itemfinder
+    eer:project.item.finder.copy_text3=https://curseforge.com/minecraft-bedrock/texture-packs/itemfinder
+
+    eer:project.joinleave_header=§eJoin§3Leave §7(resource pack)
+##     §2 project/joinleave
+    eer:project.joinleave_text1= §l§eJoin§3Leave§r - textures that change the system message when a player joins or leaves.
+    eer:project.joinleave.copy_text2=https://mcpedl.com/joinleave
+    eer:project.joinleave.copy_text3=https://curseforge.com/minecraft-bedrock/texture-packs/joinleave
+## §6 End Line
+
+    howtoplay.how.use_info.nametag=§l How to Use and Extra Information
+    howtoplay.how.use_info.deco=§l How to Use and Extra Information
+    howtoplay.how.use_info.other=§l How to Use and Extra Information
+
+    eer:how_text1= To use it, simply §erename the mob§r using a §6Name Tag§r.
+    eer:how_text2= §lMob§r - which §emobs§r you can use the §6Name Tag§r on.
+    eer:how_text3= §lNametag§r - what to name the §emob§r to trigger the §6easter egg§r.
+    eer:how_text4= §lVersion§r - which §e§lActions&Stuff§r version this §6easter egg§r is for.
+    eer:how_text5= This easter egg works only in the §lFull Experience (64x)§r pack as of §eversion §l1.11§r
+    eer:how_text6= Facts or extra information about the mob.
+
+    eer:how_text7= To use it, rename an §earmor stand§r with two '' signs using a §6Name Tag§r.
+    eer:how_text8= Then give the §earmor stand§r the required §eitem§r.
+    eer:how_text9= §lItem§r - which §eitem§r to give to the §earmor stand§r.
+    eer:how_text10= Display of the §eitem§r for the §earmor stand§r.
+    eer:how_text11= Facts or extra information about the decoration.
+    eer:how_text12= Display of §eany ore§r for applying to a §etemplate§r.
+    eer:how_text13= Display of the §eitem§r for §esmithing onto armor§r.
+    eer:how_text14= §lUse§r - to §eobtain§r it, you need to §einteract§r with the original §6plushie§r.
+
+    eer:how_text15= §lArmor Stand§r - the shown §eexample§r on an §earmor stand§r.
+    eer:how_text16= §lItem§r - which §eitem§r to §6give§r to the §earmor stand§r.
+## Don't translate the name. Like "Mobe" or "Item"

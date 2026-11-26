@@ -1,0 +1,11 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "rev:firearm_forger",
+      "materials": { "default": "entity_alphatest" },
+      "textures": { "default": "textures/entity/rev_blank" },
+      "render_controllers": []
+    }
+  }
+}

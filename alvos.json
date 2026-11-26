@@ -1,0 +1,12 @@
+[
+  { "patch": "ImprovisedGuns_3.0.5/ImprovisedGunsBP", "nome": "Improvised Guns 3.0.5 (BP)",  "uuid": "b4ca2f59-984b-4881-a04b-2564214b2dee", "versao": "3.0.5", "tipo": "behavior" },
+  { "patch": "ImprovisedGuns_3.0.5/ImprovisedGuns",   "nome": "Improvised Guns 3.0.5 (RP)",  "uuid": "1d4a303d-68e1-47bc-aa14-56211500e2f3", "versao": "3.0.5", "tipo": "resource" },
+  { "patch": "Dungeons_2.1.4/BP",                      "nome": "Alylica's Dungeons 2.1.4 (BP)", "uuid": "2c5e0de8-0360-49ac-bfe5-339a2a0e62f2", "versao": "2.1.4", "tipo": "behavior" },
+  { "patch": "CoreCraft_1.2.9/BP_CCR_CCR",             "nome": "Core Craft 1.2.9 (BP)",       "uuid": "d4ffea2a-7d37-4279-8986-3ec293263920", "versao": "1.2.9", "tipo": "behavior" },
+  { "patch": "CoreCraft_1.2.9/RP_CCR_CCR",             "nome": "Core Craft 1.2.9 (RP)",       "uuid": "5a8ed887-49fa-4b55-baa0-48aa1e05701c", "versao": "1.2.9", "tipo": "resource" },
+  { "patch": "CoreCraft_1.2.9_despawn/BP_CCR_CCR",     "nome": "Core Craft 1.2.9 (BP) despawn de gaivota e corvo (autorizado: exterminar)", "uuid": "d4ffea2a-7d37-4279-8986-3ec293263920", "versao": "1.2.9", "tipo": "behavior" },
+  { "patch": "Waystones_1.0.3/WaystonesBP",            "nome": "Explorers Waystones 1.0.3 (BP)", "uuid": "0693c314-ee32-4f17-8701-e24de58d2db6", "versao": "1.0.3", "tipo": "behavior" },
+  { "patch": "EasterEggs_1.8.2/EasterEggs",            "nome": "Easter Eggs Rename A&S 1.8.2 (RP)", "uuid": "9816faa0-bd1a-49d1-8166-cffcb435d9a8", "versao": "1.8.2", "tipo": "resource" },
+  { "patch": "_opcional/CoreCraft_1.2.9/BP_CCR_CCR",   "nome": "[OPCIONAL] Core Craft 1.2.9 (BP) worldgen/spawn", "uuid": "d4ffea2a-7d37-4279-8986-3ec293263920", "versao": "1.2.9", "tipo": "behavior", "opcional": true },
+  { "patch": "_opcional/CoreCraft_1.2.9/RP_CCR_CCR",   "nome": "[OPCIONAL] Core Craft 1.2.9 (RP) particulas",     "uuid": "5a8ed887-49fa-4b55-baa0-48aa1e05701c", "versao": "1.2.9", "tipo": "resource", "opcional": true }
+]

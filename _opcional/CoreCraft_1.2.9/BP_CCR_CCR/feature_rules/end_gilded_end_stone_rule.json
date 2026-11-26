@@ -1,0 +1,40 @@
+{
+  "format_version": "1.20.30",
+  "minecraft:feature_rules": {
+    "description": {
+      "identifier": "cc:end_gilded_end_stone_rule",
+      "places_feature": "cc:end_gilded_end_stone_scatter"
+    },
+    "conditions": {
+      "placement_pass": "final_pass",
+      "minecraft:biome_filter": {
+        "any_of": [
+          {
+            "test": "has_biome_tag",
+            "operator": "==",
+            "value": "the_end"
+          }
+        ]
+      }
+    },
+    "distribution": {
+      "iterations": 400,
+      "scatter_chance": 100.0,
+      "x": {
+        "distribution": "uniform",
+        "extent": [
+          -10,
+          10
+        ]
+      },
+      "y": "query.above_top_solid(v.originx, v.originz)",
+      "z": {
+        "distribution": "uniform",
+        "extent": [
+          -10,
+          10
+        ]
+      }
+    }
+  }
+}

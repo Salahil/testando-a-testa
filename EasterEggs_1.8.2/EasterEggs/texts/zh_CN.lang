@@ -1,0 +1,321 @@
+pack.description=v1.8_1.11 §7|§r By Milka901YT\n§7这个这个资源包将无用的「游戏指南」按钮替换为§eA&S §r彩蛋指南。透过它, 你可以看到所有基于§eAction&Stuff§7的彩蛋。
+
+menu.howToPlay=§eA&S§r 彩蛋
+menu.howToPlay.generalMessage=你看到这则信息了吗？请再次点击按钮。
+
+howtoplay.category.eer:credits=§l资讯
+howtoplay.button0.title=§eA&S§r 命名彩蛋 
+howtoplay.button0= 资讯
+    eer:section_header=关于§e资源包§r的资讯
+    eer:author=§l作者: §2Milka901YT
+§c ==========================================================
+    eer:version=§l版本:§r§7 v1.8_1.11
+    eer:releasedate=§l发布日期:§r§7 10.01.26
+    eer:lastupdate=§l更新:§r§7 21.06.26
+§c ==========================================================
+    eer:description= §l描述:§r 这个资源包将无用的「游戏指南」按钮替换为§eA&S §r彩蛋指南。透过它, 您可以查看所有基于§l§eActions&Stuff§r中的彩蛋。
+    eer:warn= §l§c此资源包不包含 §eActions&Stuff§r §c中的动画或基于其的彩蛋。
+## §6 End
+
+howtoplay.button1.title=§eA&S§r 命名彩蛋 
+howtoplay.button1= 鸣谢
+    eer:credits1_header=鸣谢
+    eer:credits1_text1=§l作者: §2Milka901YT
+    eer:credits1_text2=§l我的朋友: §cManm98765 §7(§f他什么也沒做。§7)
+    eer:credits1_text3=§l测试员:§3 Nikita218000
+    eer:language= §l支援语言:§r
+    eer:language.ru-RU_text1= §o§7Russian (Russia)§r §8(§2Milka901YT §7& §3Nikita218000§8)
+    eer:language.en-US_text2= §o§7English (United States)§r §8(§2Milka901YT §7& §3ChatGPT§8)
+    eer:language.es-MX_text3= §o§7Español (México)§r §8(§3ChatGPT§8)
+    eer:language.zh-CN_text4= §o§7中文 (简体)§r §8(§3MiMi_HK98§8)
+    eer:language.zh-TW_text5= §o§7中文 (繁體)§r §8(§3MiMi_HK98§8)
+## Don't translate the name. Like "Russian (Russia)" or "中文 (简体)"
+
+    eer:credits2.header=连结
+    eer:credits2_text1= §l§9Discord§r - 作者的个人频道, 用于发布消息:
+    eer:credits2.copy_text1=https://discord.gg/N8szypQqTR
+    eer:credits2_text2= §l§aMCPEDL§r - §aMCPEDL§r项目页面:
+    eer:credits2.copy_text2=https://mcpedl.com/easter-eggs-rename-as
+    eer:credits2_text3= §l§6CurseForge§r - §6CurseForge§r项目页面:
+    eer:credits2.copy_text3=https://curseforge.com/minecraft-bedrock/texture-packs/easter-eggs-rename-as
+
+    eer:credits3_header=特別感谢
+    eer:credits3_text1=感谢 §lItzRiyo157§r 允许我复制 §lDéesse UI Pack§r 资源包中的文字:
+## §6 End
+
+howtoplay.button2.title=§eA&S§r 命名彩蛋 
+howtoplay.button2= 如何输入分节符号？
+    eer:how_par_pc_header=电脑
+    eer:how_par_text2.0= §l要在电脑上输入分节符号, 你需要一个数字键盘:
+    eer:how_par_text2.1=§l1.§r 开启 §lNum Lock§r 或按 §lNL§r 键。
+    eer:how_par_text2.2=§l2.§r 按住 §lAlt§r 键。
+    eer:how_par_text2.3=§l3.§r 在右侧数字键盘上输入数字§l0167§r。
+    eer:how_par_text2.4=§l4.§r 松开 §lAlt§r 键。
+    eer:how_par_text2.5=§l5.§r 现在你有了你需要的分节符号§r。
+
+    eer:how_par_text2.6= 或直接复制符号:§7（点击下方§:Ctrl+A -> Ctrl+C [复制]。然后 Ctrl+V [贴上]）。
+    eer:how_par_text2.6.1=§
+    
+    eer:how_par_phone_header=手机
+    eer:how_par_text3.0= §l若要在手机上输入分节符号, 请尝试以下选项:§r
+    eer:how_par_text3.1= 切换到符号键盤, 然后找出  符号。
+    eer:how_par_text3.2= 如果找不到, 请尝试按住这几种的符号:§l"S"§r、§l"&"§r 或 §l"%"§r寻找。
+    eer:how_par_text3.3= 如果仍然找不到, 请复制符号:§7（如果您的设备允许）。
+## §6 End Line
+
+§b ==========================================================
+
+howtoplay.category.eer:nametag=§l命名牌
+howtoplay.button10.title=§eA&S§r 命名彩蛋 
+howtoplay.button10= 常规命名牌
+eer:nametag_header=常规命名牌 §e「Actions&Stuff」
+    eer:nametag.how.nametag_text1= §l此标签页显示所有可用的§e基于命名的生物特別彩蛋§r。
+    eer:nametag_text1= 还有两个季节命名:§e"Festive" §r§7（圣诞节彩蛋）§r 和 §e"Halloween"§r§7（万圣节彩蛋）§r。它们可以代替常规命名。
+    eer:nametag_text2.1=§lOiia§r - 猫会像那个迷因里一样开始旋转。
+    eer:nametag_text3.1=§lRGB§r - 迪斯科舞曲将开始播放, 期间史莱姆会循环变换不同的颜色。
+    eer:nametag_text5.1=§lNutcracker§r - 当§e捡起方块§r时, 末影人会收起他手上的鼓。
+    eer:nametag_text8.1=§lMoth§r - 如果你只是把蜜蜂命名为"§l§oMoth§r", 那么它将会随机选择生成颜色。 
+    eer:nametag_text9.1=§lChickzilla§r - 这只鸡会巨大化。
+    eer:nametag_text9.2=§lDennis§r - 驯服的狗狗身上会出现《Minecraft》电影中的吊饰。
+## --- Don't translate the name. Like "Oiia" or "Moth" ---\\
+## §6 End
+
+howtoplay.button11.title=§eA&S§r 命名彩蛋 
+howtoplay.button11= 雪地命名牌
+    eer:nametag.snowy_header=雪地命名牌 §e「Actions&Stuff」
+    eer:nametag.how.nametag.snowy_text1= §l此标签页显示所有可用的§e基于命名的雪地生物彩蛋§r。
+    eer:nametag.snowy_text1= 要使用他们，只需使用命名牌将§e他们重新命名§r为"Snowy"或"Frosty"。
+    eer:nametag.snowy_text2= 这些生物可以在§e雪地生物群系§r中生成 - 这个§6彩蛋§r也有§e可能§r适用于他们。
+    eer:nametag.snowy_text2.1=§lWandering Trader§r - 无法使用在流浪商人上，因此他必须在雪地生物群系中生成。
+    eer:nametag.snowy_text3.1=§lCow§7/§fPig§7/§fChicken§r - 这些生物必须生成于雪地生物群系。
+## --- Don't translate the name. Like "Cow" or "Creeper" ---\\
+## §6 End
+
+howtoplay.button12.title=§eA&S§r 命名彩蛋 
+howtoplay.button12= 樱花命名牌
+    eer:nametag.cherry_header=樱花命名牌 §e「Actions&Stuff」
+    eer:nametag.how.nametag.cherry_text1= §l此标签页显示所有可用的§e基于命名的樱花生物彩蛋§r。
+    eer:nametag.cherry_text1= 要使用他们，只需使用命名牌将§e他们重新命名§r为"§o§lCherry§r"。
+    eer:nametag.cherry_text2= 这些生物可以在§e樱花生物群系§r中生成 - 这个§6彩蛋§r也有§e可能§r适用于他们。
+    eer:nametag.cherry_text1.1=§lCow§r - 另有一种"§o§lCherry§r"樱花变种，但只有几片花瓣。
+    eer:nametag.cherry_text1.2=§lCreeper§r - 另有一种"§o§lCherry§r"樱花变种，但只有几片花瓣。
+## §6 End
+
+howtoplay.button13.title=§eA&S§r 命名彩蛋 
+howtoplay.button13= 硫黄命名牌
+    eer:nametag.sulfur_header=硫黄命名牌 §e「Actions&Stuff」
+    eer:nametag.how.nametag.sulfur_text1= §l此标签页显示所有可用的§e基于命名的硫黄生物彩蛋§r。
+    eer:nametag.sulfur_text1= 要使用他们，只需使用命名牌将§e他们重新命名§r为"§o§lSulfur§r"。
+    eer:nametag.sulfur_text2= 这些生物也可能在硫黄洞穴中生成——如果他们生成，则有一定机率触发这个彩蛋。
+
+howtoplay.button14.title=§eA&S§r 命名彩蛋 
+howtoplay.button14= 幼年命名牌
+    eer:nametag.baby_header=幼年命名牌 §e「Actions&Stuff」
+    eer:nametag.how.nametag.baby_text1= §l此标签页显示所有可用的§e基于命名的幼年生物彩蛋§r。
+    eer:nametag.baby_text1= 要使用他们，只需使用命名牌将§e他们重新命名§r为"§o§lBaby§r"。
+    eer:nametag.baby_text2= §c截至 1.11 版本，大多数彩蛋在"§lVanilla Experience (32x)§r§c"甚至"§lFull Experience (64x)§r§c"上都无法运作。
+    eer:nametag.baby_text3= 如果这些生物是在§e幼年时期§r, 这个§6彩蛋§r也§e适用§r于他们。
+## §6 End Line
+
+§b ==========================================================
+
+howtoplay.category.eer:deco=§l道具
+howtoplay.button21.title=§eA&S§r 命名彩蛋 
+howtoplay.button21= 装饰
+    eer:deco_header=Name-装饰 §e「Actions&Stuff」
+    eer:deco.how.deco_text1= §l此标签页显示所有可用的§e基于命名的装饰彩蛋§r。
+    eer:deco_text3.1= §lMangrove Door§r - 与棺材互动即可打开它！
+    eer:deco_text3.2= §lChiseled Stone Bricks§r - 夜里, 一只僵尸会從这座坟墓爬出來！
+    eer:deco_text4.1= §lWheat§r - 到了晚上, 这个稻草人就会活过來！
+    eer:deco_text4.2= §lTwisting Vines§7 /  §fWeeping Vines§r - 如果盔甲架放置角度是45°, 棒棒糖会变大。
+    eer:deco_text6.1= §lPufferfish§r - 与氣球互动即可改变它们！
+    eer:deco_text6.2= §lCocoa Beans§r - 三下门就能看到姜饼人！
+    eer:deco_text7.1= §lWeb[1]§r - 在盔甲架下方放置任何活板门，即可产生彩带！
+    eer:deco_text7.2= §lWeb[2]§r - 在门前放置活板门，使彩带飘落。另外，在网内放置一块玻璃片。
+    eer:deco_text7.3= §lWeb[3]§r - 在网内放置一块玻璃片。
+    eer:deco_text8.1= §lCopper Bulb§r - 与其互动即可更改数字。还可以多个并排放置！
+    eer:deco_text8.2= §lCopper Lantern§r - 与其互动可在 4 种状态之间切换: §7向上白色、向下白色、向上 RGB、向下 RGB§r。
+## --- Don't translate the name. Like "Wheat" or "Pufferfish" ---\\
+## §6 End 
+
+howtoplay.button22.title=§eA&S§r 命名彩蛋 
+howtoplay.button22= 绒毛玩具
+    eer:deco.plushes_header=绒毛玩具 §e「Actions&Stuff」
+    eer:deco.how.deco.plushie_text1= §l此标签页显示所有可用的§e基于命名的绒毛玩具彩蛋§r。
+## §6 End
+
+howtoplay.button23.title=§eA&S§r 命名彩蛋 
+howtoplay.button23= 礼物盒
+    eer:deco.presents_header=礼物盒 §e「Actions&Stuff」
+    eer:deco.how.deco.presents_text1= §l此标签页显示所有可用的§e基于命名的礼物盒彩蛋§r。
+    eer:deco.presents_text1= 所有礼物盒初始都是合上的。只有你与它们互动后, 它们才会打开。
+## §6 End 
+
+howtoplay.button24.title=§eA&S§r 命名彩蛋 
+howtoplay.button24= 长袜
+    eer:deco.stockings_header=长袜 §e「Actions&Stuff」
+    eer:deco.how.deco.stockings_text1= §l此标签页显示所有可用的§e基于命名的长袜彩蛋§r。
+    eer:deco.stockings.how_text1= 把§n皮革靴子§e浸入染过色的炼药锅§r里, 然后放在§e盔甲架§上。
+    eer:deco.stockings.how_text2= §c要制作§l其他长袜§r, 要§c先将§l炼药锅§c中已染色的水清空§r§c。
+    eer:deco_stockings_text1= 两种染料是什么意思？代表你需要在同一炼药锅中§e加入两种指定的染料§r。
+## §6 End
+
+howtoplay.button25.title=§eA&S§r 命名彩蛋 
+howtoplay.button25= 地毯
+    eer:deco.rugs_header=地毯 §e「Actions&Stuff」
+    eer:deco.how.deco.rugs_text1= §l此标签页显示所有可用的§e基于命名的地毯彩蛋§r。
+    eer:deco.rugs_text1= 与地毯潜行&互动, 即可变更为§6花纹大地毯§r。
+    eer:deco.rugs_text2= §6地毯§r可以与其他地毯组合，打造成§e超大地毯！
+## §6 End
+
+howtoplay.button26.title=§eA&S§r 命名彩蛋 
+howtoplay.button26= 旗帜
+    eer:deco.flag_header=旗帜 §e「Actions&Stuff」
+    eer:deco.how.deco.flag_text1= §l此标签页显示所有可用的§e基于命名的旗帜彩蛋§r。
+    eer:deco.how.deco.flag_text2= 另外，为§e盔甲架§r挂上一面旗帜（任何旗帜都可以）。
+    eer:how.flag_text1= 显示§e盔甲架§r上§n皮革靴子§e的§e颜色§r。
+    eer:deco.flag_text1= §c要制作§l其他旗帜§r, 要§c先将§l炼药锅§c中已染色的水清空§r§c。
+    eer:deco.flag_text2= 与旗帜互动时出现的所有变体:
+    eer:deco.flag_text0.1=§l[1]§r - 放置在§e地面上§r。
+    eer:deco.flag_text0.2=§l[2]§r - 放置在§e墙上§r。
+    eer:deco.flag_text0.3=§l[3]§r - 放置在§e地面上§r。
+    eer:deco.flag_text0.4=§l[4]§r - 放置在§e栅栏上§r。
+    eer:deco.flag_text3=§lItem§r - 用哪种§e颜色§r为§6皮革靴子染色§r。
+    eer:deco.flag_text4= 显示§e盔甲架§r上的§e任何旗帜§r。
+## §6 End
+
+howtoplay.button27.title=§eA&S§r 命名彩蛋 
+howtoplay.button27= 立方怪
+    eer:deco.sulfur.cube_header=硫方怪 §e「Actions&Stuff」
+    eer:deco.how.deco.sulfur.cube_text1= §l此标签页显示所有可用的§e基于命名的硫方怪彩蛋§r。
+    eer:deco.how.deco.sulfur.cube_text2= 要使用他们，只需使用命名牌将§e他们重新命名§r为"§eSulfur Cube§r"。
+    eer:deco.how.sulfur.cube_text1= 您可以为他们添加§e颜色§r 。为此，请在§6命名牌§r的§e开头§r加上所需的颜色。
+    eer:deco.how.sulfur.cube_text1_1=- 比如: §7"Golf Ball"§r -> §7"§2Green§7 Golf Ball"§r。
+    eer:deco.sulfur.cube_text1= Oreville官方地图，包含13个以他们为主题的小游戏:
+    eer:deco.sulfur.cube.copy_text1=https://orevillestudios.com/actions-&-stuff/chaos-cubed-world/download
+    eer:deco.how.sulfur.cube_text2= §lItem§r - 給§e硫方怪吸收§r的物品。
+    eer:deco.how.sulfur.cube_text3= 显示给§e硫方怪吸收§r的物品。
+    eer:deco.sulfur.cube_text1.1= §lLarge§r - 硫方怪§e巨大化§r。
+    eer:deco.sulfur.cube_text1.2= §lBlock§r - 硫方怪变成§e方块大小§r。
+    eer:deco.sulfur.cube_text1.3= §lSmall§r - 缩成§e小型§r硫方怪。
+    eer:deco.sulfur.cube_text2.1= §lGolf Ball§r - 可选颜色: §7"§2Green§7, §6Orange§7, §dPink§7, §eYellow§7"§r
+    eer:deco.sulfur.cube_text3.1= §lBowling Ball§r - 可选颜色: §7"§9Blue§7, §2Green§7, §6Orange§7, §dPink§7, §cRed§7, §fWhite§7"§r
+    eer:deco.sulfur.cube_text3.2= §lBowling Pin§r - 用铁桶把球瓶重新竖起来。
+    eer:deco.sulfur.cube_text3.3= §lCurling Stone§r - 可选颜色: §7"§9Blue§7, §2Green§7, §cRed§7, §eYellow§7"§r
+    eer:deco.sulfur.cube_text4.1= §lBilliards Ball§r - 可选颜色: §7"Black, §9Blue§7, §nBrown§7, §2Green§7, §dPink§7, §cRed§7, §fWhite§7, §eYellow§7"§r
+    eer:deco.sulfur.cube_text4.2= §lBilliards Ball Spot§r - 可选颜色: §7"§mMaroon§7, Black, §9Blue§7, §2Green§7, §6Orange§7, §uPurple§7, §cRed§7, §eYellow§7"§r
+    eer:deco.sulfur.cube_text4.3= §lBilliards Ball Stripe§r - 可选颜色: §7"§mMaroon§7, §9Blue§7, §2Green§7, §6Orange§7, §uPurple§7, §cRed§7, §eYellow§7"§r
+    eer:deco.sulfur.cube_text4.4= §lPlastic Ball§r - 可选颜色: §7"§9Blue§7, §2Green§7, §dPink§7, §cRed§7, §eYellow§7"§r
+## --- Don't translate the name. Like "Plastic Ball" or "Green" ---\\
+## §6 End Line
+
+§b ==========================================================
+
+howtoplay.category.eer:clothes=§l其他
+howtoplay.button31.title=§eA&S§r 命名彩蛋 
+howtoplay.button31= 帽子
+    eer:head_header=帽子 §e「Actions&Stuff」
+    eer:heads_text1= §l此标签页显示所有可用的§e帽子§r。
+    eer:heads_text2= 要得到它们, 您需要有§e作弊权限§r。然后输入§e指令§r, 或下方直接复制:
+    eer:heads_text3=/replaceitem entity @s slot.armor.head 0 <Item>
+    eer:heads_text4= §l例子: §b/replaceitem entity @s slot.armor.head 0 §ocactus
+## §6 End 
+
+howtoplay.button32.title=§eA&S§r 命名彩蛋 
+howtoplay.button32= 衣服
+    eer:costumes_header=衣服 §e「Actions&Stuff」
+    eer:costumes_text0= §l此标签页显示所有可用的§e衣服§r.
+    eer:costumes_text1= 要得到它们, 您需要§e锻造模板§r。
+    eer:costumes_text2= 然后你需要在§n皮革盔甲§r上使用§e模板§r進行锻造。
+    eer:costumes_text4= §a你制作一件頭盔——就能获得一頂圣诞帽。
+    eer:costumes_text5= §c仅当您将 §l§eActions&Stuff§r§c 子包设定为"§lFull Experience (64x)§r§c"时才有效。
+## §6 End
+howtoplay.button33.title=§eA&S§r 命名彩蛋 
+howtoplay.button33= 变形
+    eer:morph_header=变形 §e「Actions&Stuff」
+    eer:morph_text1= §l此标签页显示所有可用的§e变形§r.
+    eer:morph_text2= 使用此功能, 请前往§eActions&Stuff设置§r。
+    eer:morph_text3= 然后找到"§l§oMorphs§r"§e选擇§r你想变成的§e外观§r。
+    eer:morph_text4= 这些§e变形效果仅自己可见§r, 对§e其他玩家§r无效。
+    eer:morph_text1.1=§lMine me§r - 你的幼年版皮膚。
+    eer:morph_text2.1= §c"Sully: Sulfur Cube" 硫方怪角色暂时不可用。
+## --- Don't translate the name. Like "Sully: Sulfur Cube" ---\\
+## §6 End
+
+howtoplay.button34.title=§eA&S§r 命名彩蛋 
+howtoplay.button34= 姿势
+    eer:poses_header=姿势 §e「Actions&Stuff」
+    eer:poses_text1= §l此标签页显示所有可用的§e姿势§r.
+    eer:poses_text2= §l坐姿§r - 可以让你坐著。若要使用这个姿势, 请§e潜行5秒§f+§e向下看§r。
+## §6 End Line
+
+§b ==========================================================
+
+howtoplay.category.eer:other=§l其他
+howtoplay.button40.title=§eA&S§r 命名彩蛋 
+howtoplay.button40= 使用条款
+    eer:Terms_of_Use_header=使用条款
+    eer:Terms_of_Use.yes_text1= §l您§a有权§r:
+    eer:Terms_of_Use.yes_text2= 仅供§e个人使用§r而编辑纹理。
+    eer:Terms_of_Use.yes_text3= 在各平台创建§e视讯內容§r。
+
+    eer:Terms_of_Use.not_text1= §l您§c无权§r:
+    eer:Terms_of_Use.not_text2= 使用§e另一个下载连结§r重新发布资源包。请仅分享官方页面的连结: §l§aMCPEDL§r 或 §l§vCurseForge§r§r。
+    eer:Terms_of_Use.not_text3= 发布§e资源包的修改版本§r。
+## §6 End 
+
+howtoplay.button41.title=§eA&S§r 命名彩蛋 
+howtoplay.button41= 更新日志
+    eer:changelog_header=更新日志
+§c ==========================================================
+    eer:changelog_text1=§l版本: v1.8_1.11§r §7(21.06.2026)
+    eer:changelog_text2= 添加了§eActions&Stuff 1.11§r基于命名的彩蛋：
+    eer:changelog_text3= 新增标签页：§l"硫黄生物变体"§r、§l"旗帜"§r、§l"硫方怪"§r
+    eer:changelog_text4= 在「 装饰」标签中添加了新装饰物
+    eer:changelog_text5= 作者移除了彩蛋中的版本标签，因为版本号码不一致太多，让作者很困惑 :(
+    eer:changelog_text6=
+    eer:changelog_text7=
+    eer:changelog_text8=
+    eer:changelog_text9=
+§c ==========================================================
+## §6 End
+
+howtoplay.button42.title=§eA&S§r 命名彩蛋 
+howtoplay.button42= 我的项目
+    eer:project.item.finder_header=§2Item Finder §7(资源包)
+##     §2 project/item_finder
+    eer:project.item.finder_text1= §l§2Item Finder§r - 当你在物品栏中持有同一物品时, 该物品会高亮显示。高亮颜色也可以变更。
+    eer:project.item.finder.copy_text2=https://mcpedl.com/itemfinder
+    eer:project.item.finder.copy_text3=https://curseforge.com/minecraft-bedrock/texture-packs/itemfinder
+
+    eer:project.joinleave_header=§l§eJoin§3Leave§r §7(资源包)
+##     §2 project/joinleave
+    eer:project.joinleave_text1= §l§eJoin§3Leave§r - 当玩家加入或离开时, 会改变系統信息的纹理。
+    eer:project.joinleave.copy_text2=https://mcpedl.com/joinleave
+    eer:project.joinleave.copy_text3=https://curseforge.com/minecraft-bedrock/texture-packs/joinleave
+## §6 End Line
+
+
+    howtoplay.how.use_info.nametag=§l 使用方法及其他资讯
+    howtoplay.how.use_info.deco=§l 使用方法及其他资讯
+    howtoplay.how.use_info.other=§l 使用方法及其他资讯
+
+    eer:how_text1= 要使用它，只需使用§6命名牌§r重新命名生物§r即可。
+    eer:how_text2= §lMob§r - 什么§e生物§r可用于§6命名牌§r。
+    eer:how_text3= §lNametag§r - 将§e生物§r命名什么会让§6彩蛋§r生效。
+    eer:how_text4= §lVersion§r - §6彩蛋§r是在§e§lActions&Stuff§r的哪个版本起生效。
+    eer:how_text5= 此彩蛋仅在子包设定为§lFull Experience (64x)§r有效，版本为 §l1.11§r。
+    eer:how_text6= 关于生物的更多资讯。
+
+    eer:how_text7= 要使用它, 请使用一个""§6命名牌§r重新命名§e盔甲架§r。 
+    eer:how_text8= 然后把所需§e物品§r放置在§e盔甲架§r。
+    eer:how_text9= §lItem§r - 以§e物品名§r表示将哪些§e物品放置在盔甲架§r。
+    eer:how_text10= 以§e物品图示§r表示将哪些§e物品放置在盔甲架§r。
+    eer:how_text11= 关于生物的更多资讯。
+    eer:how_text12= 表示§e任何可用于§e模板§r的§e矿石§r。
+    eer:how_text13= 表示§e用于锻造盔甲§r的§e物品§r。
+    eer:how_text14= §lUse§r - 要获得它，你需要与原版毛绒玩具互动。
+
+    eer:how_text15= §lArmor Stand§r - 在§e盔甲架§r上的§e展示§r。
+    eer:how_text16= §lItem§r - 以§e物品名§r表示将哪些§e物品放置在盔甲架§r。
+## Don't translate the name. Like "Mobe" or "Item"
